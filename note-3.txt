@@ -4,9 +4,4 @@ git init 初始化本地文件为一个仓库
 
 git status 查看当前分支的状态（新建***文件，修改***文件，删除***文件）
 
-git add .
-git add [filename]
-git commit -m "[备注]"
-
-
 分支：文件内容的工作线
