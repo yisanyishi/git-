@@ -23,6 +23,10 @@ git status 查看当前分支的状态（新建***文件，修改***文件，删
 git log     查看当前分支的日志
 git checkout  [branchname]  切换到某分支
 
+
+git pull 拉取所有远程分支的最新代码
+git merge origin/[branchname] 合并某分支的代码
+
 git push --set-upstream origin [branchname] 将一个新分支推送到远程上，并将该本地分支与远程分支关联
 git push 推送本地修改到远程
 
